@@ -15,3 +15,10 @@ function loop() {
 
   requestAnimationFrame(loop);
 }
+
+let rotation = (rectengle) => {
+  mouseseeter;
+};
+rotation.addEventListenter("mouseenter", (rot) => {
+  rotation;
+});
